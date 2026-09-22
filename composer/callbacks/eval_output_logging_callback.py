@@ -146,3 +146,4 @@ class EvalOutputLogging(Callback):
 
                             self.table[f'{benchmark}_{metric_name}'] = (columns, rows)
         self._prep_response_cache(state, False)
+
